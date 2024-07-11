@@ -1,0 +1,13 @@
+#img{
+    height: 150px;
+    width: 150px;
+    border: 2px solid rgb(17, 24, 1);
+    margin-inline-end: 500px; 
+}
+span{
+    margin: auto;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+}
